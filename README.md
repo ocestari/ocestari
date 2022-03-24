@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Octavio
-- 🌱 I’m currently Front-end developer and start learning about Solidity, Python and Java languages
+- 🌱 I’m currently Front-end developer and start learning Solidity, Python and Java languages
 - 📫 Reach me at Discord, cestari#6071 and Instagram, @octaviocestari
 
 <!---
